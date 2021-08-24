@@ -194,7 +194,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-    background-image: url(/imgs/landscape-2.jpg);
+    background-image: url(https://github.com/abdallahgeorge/agency-template-elzero/blob/main/imgs/landscape-2.jpg?raw=true);
     background-size: cover;
     height: calc(100vh - 64px);
 }
